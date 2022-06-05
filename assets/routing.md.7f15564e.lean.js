@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,d as t}from"./app.d1da27aa.js";const g='{"title":"Routing","description":"","frontmatter":{},"headers":[{"level":2,"title":"Basic","slug":"basic"}],"relativePath":"routing.md"}',o={},p=t("",10),c=[p];function e(u,l,i,k,r,d){return a(),s("div",null,c)}var _=n(o,[["render",e]]);export{g as __pageData,_ as default};
