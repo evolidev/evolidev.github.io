@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as t}from"./app.47332df7.js";const d='{"title":"Cron","description":"","frontmatter":{},"headers":[{"level":2,"title":"Examples","slug":"examples"}],"relativePath":"cron.md"}',p={},o=t("",5),c=[o];function e(u,l,k,i,r,f){return a(),s("div",null,c)}var h=n(p,[["render",e]]);export{d as __pageData,h as default};
